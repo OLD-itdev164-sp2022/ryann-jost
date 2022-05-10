@@ -226,3 +226,4 @@ pre tt:after {
   content: none;
 }
 `
+export default GlobalStyle
