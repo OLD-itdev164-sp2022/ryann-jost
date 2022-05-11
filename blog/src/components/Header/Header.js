@@ -61,7 +61,7 @@ const Header = ({ siteTitle }) => (
           </ThemeConsumer>
         </Section>
         <Section
-          width={1 / 12}
+          width={11 / 12}
           flex
           flexDirection="column"
           justifyContent="center"
