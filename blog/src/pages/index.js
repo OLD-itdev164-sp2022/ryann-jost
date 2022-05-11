@@ -2,10 +2,9 @@ import React from "react"
 import { Link } from "gatsby"
 import styled from "styled-components"
 import { Box, Card, Image, Heading } from "rebass"
-import { GatsbyImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { List, ListItem } from "../components/List"
+import { graphql } from "gatsby"
 
 const Grid = styled(Box)`
   box-sizing: border-box;
